@@ -1,6 +1,6 @@
 # ClockIn-Out
 This is a code for a ClockIn/Out discord bot. You can create the bot Just for ClockIn/Out or add it to your other bot. It's a simple bit of code which works effectively. It is used to log hours within a FiveM server Dpt. like PD or EMS.
-The Commands are !clockin, !clockout, !hours, !adminhours @user, !addtime @user <minutes>, !removetime @user <minutes>. All of these commands can be seen within the code.
+*The Commands are !clockin, !clockout, !hours, !adminhours @user, !addtime @user <minutes>, !removetime @user <minutes>.* All of these commands can be seen within the code.
 To run the code you need to open a terminal and type "python bot.py". I coded this bot in VS Code,  all information will be highlighted in green and should come after "#".
 
 __How to install__
